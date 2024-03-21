@@ -1,0 +1,111 @@
+.wrapper7{
+    display: grid;
+    grid-template-columns: 1fr 4fr 4fr;
+    grid-template-rows: 5vw;
+    margin-top: 5vw;
+}
+.box34{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 7;
+}
+.gallery{
+    rotate: (-90deg);
+    font-size: 5vw;
+    margin-top: 10vw;
+    width: 300%;
+    font-style: italic;
+    font-weight: bolder;
+    letter-spacing: 0.5vw;
+    margin-left: -13.5vw;
+    margin-top:20vw;
+}
+.box35{
+    grid-column-start: 2;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    margin-left: -0.5vw;
+    font-size: 1vw;
+    letter-spacing: 0.03vw;
+}
+.img6{
+    width: 31.4vw;
+    height: auto;
+}
+.box36{
+    grid-column-start: 6;
+    grid-column-end: 10;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    font-size: 7vw;
+    font-weight: 800;
+    margin-top: 2vw;
+}
+.live2020{
+    margin-top: 5vw;
+    margin-left: 3vw;
+}
+.arrowleft{
+    margin-left: 5vw;
+    margin-right: 2vw;
+    width: 5vw;
+}
+.arrowrigh{
+    width: 5vw;
+}
+.stadium{
+    margin-left: -10vw;
+}
+.box37{
+    grid-column-start: 2;
+    grid-column-end: 6;
+    grid-row-start: 4;
+    grid-row-end: 7;
+    margin-left: 7vw;
+    font-size: 1vw;
+    letter-spacing: 0.03vw;
+    margin-top: 3vw;
+}
+.img8{
+    width: 31.4vw;
+    height: auto;
+}
+.box38{
+    grid-column-start: 6;
+    grid-column-end: 10;
+    grid-row-start: 3;
+    grid-row-end: 5;
+    margin-right: 7.5vw;
+    font-size: 1vw;
+    letter-spacing: 0.03vw;
+    margin-top: 3vw;
+}
+.img7{
+    width: 36.5vw;
+    height: auto;
+}
+.box39{
+    grid-column-start: 6;
+    grid-column-end: 10;
+    grid-row-start: 5;
+    grid-row-end: 7;
+    justify-self: center;
+    text-align: center;
+    margin-right: 5vw;
+    margin-top: 3vw;
+    margin-bottom: -3vw;
+}
+.readall{
+    font-size: 1.4vw;
+    margin-top: 1.2vw;
+    font-weight: 300;
+    font-style: italic;
+    font-family: "Source Sans 3";
+}
+.photovideo{
+    font-size: 1.7vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+}

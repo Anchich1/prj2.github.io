@@ -1,0 +1,146 @@
+.wrapper1{
+    display: grid;
+    grid-template-columns: 1fr 2fr 4fr 2fr;
+    grid-auto-rows: 30vw;
+    margin-top: 35vw;
+}
+.box5{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.box6{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.box9{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+.whowe{
+    rotate: (-90deg);
+    font-size: 5vw;
+    margin-top: 10vw;
+    width: 300%;
+    font-style: italic;
+    font-weight: bolder;
+    letter-spacing: 0.5vw;
+    margin-left: -11vw;
+    margin-top:20vw;
+}
+.img1{
+    float: left;
+    width:15.5vw;
+    justify-self: center;
+    margin-left: 1.8vw;
+}
+.abimg1{
+    rotate: (90deg);
+    width: 200%;
+    margin-left: -4vw;
+    margin-top: 3vw;
+    font-family: "Source Sans 3";
+    word-spacing: 0.5vw;
+}
+.img2{
+    float: left;
+    width:15.5vw;
+    justify-self: center;
+    margin-left: -1vw;
+}
+.abimg2{
+    rotate: (90deg);
+    width: 200%;
+    margin-left: -6.9vw;
+    margin-top: 3vw;
+    font-family: "Source Sans 3";
+    word-spacing: 0.5vw;
+}
+.img3{
+    float: left;
+    width:15.5vw;
+    justify-self: center;
+    margin-left: 1.8vw;
+}
+.abimg3{
+    rotate: (90deg);
+    width: 200%;
+    margin-left: -4vw;
+    margin-top: 1vw;
+    font-family: "Source Sans 3";
+    word-spacing: 0.5vw;
+}
+.img4{
+    float: left;
+    width:15.5vw;
+    justify-self: center;
+    margin-left: -1vw;
+}
+.abimg4{
+    rotate: (90deg);
+    width: 200%;
+    margin-left: -6.9vw;
+    margin-top: 1.3vw;
+    font-family: "Source Sans 3";
+    word-spacing: 0.5vw;
+}
+.abutopia{
+    font-size: 1.5vw;
+    font-weight: 300;
+    font-family: "Source Sans 3";
+    letter-spacing: 0.01vw;
+    line-height: 2.2vw;
+    margin-left: 5vw;
+}
+.abutopia1{
+    font-size: 1.5vw;
+    font-weight: 300;
+    font-family: "Source Sans 3";
+    letter-spacing: 0.01vw;
+    line-height: 2.2vw;
+}
+.abutopia2{
+    font-size: 1.5vw;
+    font-weight: 300;
+    font-family: "Source Sans 3";
+    letter-spacing: 0.01vw;
+    line-height: 2.2vw;
+    margin-left: 5vw;
+}
+.abutopia3{
+    font-size: 1.5vw;
+    font-weight: 300;
+    font-family: "Source Sans 3";
+    letter-spacing: 0.01vw;
+    line-height: 2.2vw;
+}
+.box7{
+    margin-left: 2vw;
+    margin-top: 3.5vw;
+}
+.box10{
+    justify-self: center;
+    text-align: center;
+    margin-left: -7vw;
+    font-family: "Source Sans 3";
+}
+.interview{
+    font-size: 1.8vw;
+    line-height: 2.7vw;
+    font-weight: 500;
+}
+.eye{
+    width: 7.5vw;
+    margin-top: 1.2vw;
+}
+.readint{
+    font-size: 1.4vw;
+    margin-top: 1.2vw;
+    font-weight: 300;
+    font-style: italic;
+}

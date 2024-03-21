@@ -1,0 +1,99 @@
+.wrapper4{
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+    grid-template-rows: 5vw;
+    margin-left: 12.5vw;
+    margin-right: 11vw;
+    margin-top: 5vw;
+    line-height: 2.2vw;
+}
+.bukvag{
+    float: left;
+    padding-right: 0.5vw;
+    width: 5vw;
+    height: auto;
+    margin-top: 0.5vw;
+}
+.box21{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    font-family: "Source Sans 3";
+    font-weight: bolder;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
+.utopia1{
+    font-size: smaller;
+    font-weight: 500;
+}
+.box22{
+    grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    color: #7BD7FF;
+    font-family: "Source Sans 3";
+    font-weight: bolder;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
+.box23{
+    grid-column-start:5;
+    grid-column-end: 9;
+    grid-row-start: 2;
+    grid-row-end: 4;
+    margin-top: 0.8vw;
+    font-family: "Source Sans 3";
+    font-weight: 300;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
+.box24{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    color: #7BD7FF;
+    margin-top: 2.5vw;
+    font-family: "Source Sans 3";
+    font-weight: bolder;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
+.box25{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 4;
+    grid-row-end: 7;
+    margin-top: 1.5vw;
+    font-family: "Source Sans 3";
+    font-weight: 300;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
+.box26{
+    grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    color: #7BD7FF;
+    margin-top: 1.5vw;
+    font-family: "Source Sans 3";
+    font-weight: bolder;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
+.box27{
+    grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 5;
+    grid-row-end: 7;
+    font-weight: lighter;
+    margin-top: 1vw;
+    font-family: "Source Sans 3";
+    font-weight: 300;
+    letter-spacing: 0.01vw;
+    font-size: 1.4vw;
+}
